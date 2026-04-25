@@ -1,0 +1,41 @@
+[ {
+  "id" : "afe506b0-167e-4fe7-9328-4b352dfb6643",
+  "invoiceNumber" : "INV-001",
+  "customerName" : "Priya Sharma",
+  "itemName" : "22K Gold Bangle",
+  "itemCategory" : "BRACELET",
+  "itemWeight" : 22.500,
+  "price" : 1250.00,
+  "paymentMethod" : "CASH",
+  "soldAt" : "2026-04-07T14:11:43.22503Z"
+}, {
+  "id" : "93953d47-7016-484b-ab2c-053c36a07ab7",
+  "invoiceNumber" : "INV-002",
+  "customerName" : "Ravi Kumar",
+  "itemName" : "Diamond Solitaire Ring",
+  "itemCategory" : "RING",
+  "itemWeight" : 3.200,
+  "price" : 4500.00,
+  "paymentMethod" : "CARD",
+  "soldAt" : "2026-04-07T14:11:43.22503Z"
+}, {
+  "id" : "fca8fb36-0c48-40a8-affd-76f06f99d948",
+  "invoiceNumber" : "INV-003",
+  "customerName" : "Anita Nair",
+  "itemName" : "Silver Anklet Pair",
+  "itemCategory" : "BRACELET",
+  "itemWeight" : 18.000,
+  "price" : 180.00,
+  "paymentMethod" : "CASH",
+  "soldAt" : "2026-04-08T14:11:43.22503Z"
+}, {
+  "id" : "ee5a71d8-6059-4395-8745-ea28520c37de",
+  "invoiceNumber" : "INV-004",
+  "customerName" : "David Thomas",
+  "itemName" : "Platinum Wedding Band",
+  "itemCategory" : "RING",
+  "itemWeight" : 5.500,
+  "price" : 1700.00,
+  "paymentMethod" : "CARD",
+  "soldAt" : "2026-04-08T14:11:43.22503Z"
+} ]
