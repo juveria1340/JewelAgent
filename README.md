@@ -61,7 +61,6 @@ You should see five containers: `postgres`, `kafka`, `kafka-ui`, `jewelagent-app
 | Kafka UI | http://localhost:8090 |
 | PostgreSQL | localhost:5432 |
 
-**PostgreSQL credentials:** `user` / `password` / database `jewellery`
 
 ---
 
