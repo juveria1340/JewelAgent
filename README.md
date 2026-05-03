@@ -178,7 +178,5 @@ docker compose down -v
 
 ---
 
-## Student Information
-
 
 **Stack:** Spring Boot 3.2 · Apache Kafka (KRaft) · PostgreSQL 15 · Anthropic Claude · Docker Compose
